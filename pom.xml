@@ -13,7 +13,7 @@
         <java.version>11</java.version>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <exec-maven-plugin.version>1.2.1</exec-maven-plugin.version>
-        <sdk.version>1.0</sdk.version>
+        <sdk.version>1.1.0</sdk.version>
     </properties>
 
     <build>
